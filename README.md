@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @CatLady-HKR
-- 👀 I’m interested in understanding the reality
-- 🌱 I’m currently learning from the very start
 - 📫 How to reach me: keren.hkr@gmail.com
 
 <!---
